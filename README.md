@@ -22,7 +22,7 @@ This project leverages deep learning to detect and classify retinal disorders fr
 - 7 classes: AMD, DME, ERM, NO, RVO, VID, RAO.
 - Final dataset after augmentation: 18,576 images.
 
-> Due to size, full dataset is not hosted in this repo. You can download it from [Link here].
+> Due to size, full dataset is not hosted in this repo. You can download it from [https://drive.google.com/drive/folders/1Md3_0QZZtQ3XMWqThqbzUPoVlo7QMyOE?usp=drive_link].
 
 ## 📈 Performance (Best Model - InceptionV3)
 - Accuracy: 97.73%
